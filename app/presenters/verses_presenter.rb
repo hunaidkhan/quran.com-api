@@ -44,7 +44,9 @@ class VersesPresenter < BasePresenter
     'v2_page',
     'line_number',
     'line_v2',
-    'line_v1'
+    'line_v1',
+    'image_url',
+    'image_blob'
   ]
 
   TRANSLATION_FIELDS = [

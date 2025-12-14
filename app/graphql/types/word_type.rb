@@ -16,6 +16,8 @@ module Types
     field :location, String, null: true
     field :audio_url, String, null: true
     field :char_type_name, String, null: true
+    field :image_url, String, null: true
+    field :image_blob, String, null: true
 
     field :page_number, Integer, null: true
     field :v1_page, Integer, null: true

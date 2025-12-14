@@ -216,6 +216,8 @@ type Word {
   className: String
   code: String
   id: ID!
+  imageBlob: String
+  imageUrl: String
   lineNumber: Int
   location: String
   pageNumber: Int

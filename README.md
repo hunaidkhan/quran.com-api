@@ -45,6 +45,11 @@ http://localhost:3000/api/v4/chapters/1
 V4 docs: https://api-docs.quran.com/docs/category/quran.com-api
 deprecated V4 docs: https://quran.api-docs.io/v4/
 
+#### Guides
+- [Retrieving Indo-Pak Font and Word Frame Images](docs/images.md)
+- [Search Documentation](Search.md)
+- [Testing Guide](docs/testing.md)
+
 Note that v3 is no longer being extended or fixed. For v3 -> v4 migration guide
 see: https://quran.api-docs.io/v4/getting-started/api-v3-v4-migration-guide
 
