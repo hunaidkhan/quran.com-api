@@ -3305,6 +3305,12 @@ definitions:
         type: string
       char_type_name:
         type: string
+      image_url:
+        type: string
+        description: URL to the word image/frame
+      image_blob:
+        type: string
+        description: Base64-encoded image data for the word
       code_v1:
         type: string
         description: glyph code that you can use to render the word using QCF  v1 font.
